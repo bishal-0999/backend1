@@ -1,0 +1,7 @@
+{
+    "singleQuote":false,
+    "breacketSpacing":true,
+    "tabWidht": 2,
+    "trailingComma": "all",
+    "semi": true
+}
